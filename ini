@@ -2,15 +2,13 @@ surge_ruleset=🎥 NETFLIX,https://github.com/blackmatrix7/ios_rule_script/raw/m
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Hijacking/Hijacking.list
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Advertising/Advertising.list
 surge_ruleset=📰AppleNews,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/AppleNews/AppleNews.list
-surge_ruleset=🪕bilibili，https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list
+surge_ruleset=🪕bilibili,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list
 surge_ruleset=Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Microsoft/Microsoft.list
 surge_ruleset=📹 YouTube,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/YouTube/YouTube.list
 surge_ruleset=🌍 国外媒体,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/GlobalMedia/GlobalMedia.list
 surge_ruleset=🍎 苹果服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Apple/Apple.list
 surge_ruleset=🔰 节点选择,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Global/Global.list
 surge_ruleset=🔰 节点选择,rules/PROXY.list
-
-
 surge_ruleset=DIRECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/China/China.list
 surge_ruleset=DIRECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/ChinaIPs/ChinaIPs.list
 surge_ruleset=🐟 规则外路由选择,[]FINAL
