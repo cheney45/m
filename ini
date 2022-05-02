@@ -1,5 +1,4 @@
-surge_ruleset=DIRECT,rules/LocalAreaNetwork.list
-surge_ruleset=DIRECT,rules/ConnersHua/Surge/Ruleset/Unbreak.list
+
 surge_ruleset=🎥 NETFLIX,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Netflix/Netflix.list
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Hijacking/Hijacking.list
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Advertising/Advertising.list
