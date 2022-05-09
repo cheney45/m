@@ -10,7 +10,6 @@ surge_ruleset=🍎 苹果服务,https://github.com/blackmatrix7/ios_rule_script/
 surge_ruleset=🔰 节点选择,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Global/Global.list
 surge_ruleset=🔰 节点选择,rules/PROXY.list
 surge_ruleset=DIRECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/China/China.list
-surge_ruleset=DIRECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/ChinaIPs/ChinaIPs.list
 surge_ruleset=🐟 规则外路由选择,[]FINAL
 
 
