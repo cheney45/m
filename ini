@@ -2,7 +2,6 @@ surge_ruleset=🎥 NETFLIX,https://github.com/blackmatrix7/ios_rule_script/raw/m
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Hijacking/Hijacking.list
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Advertising/Advertising.list
 surge_ruleset=📰AppleNews,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/AppleNews/AppleNews.list
-surge_ruleset=🪕bilibili,https://github.com/blackmatrix7/ios_rule_script/ram/master/rule/Surge/BiliBili/BiliBili.list
 surge_ruleset=Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Microsoft/Microsoft.list
 surge_ruleset=📹 YouTube,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/YouTube/YouTube.list
 surge_ruleset=🌍 国外媒体,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/GlobalMedia/GlobalMedia.list
@@ -16,7 +15,6 @@ surge_ruleset=🐟 规则外路由选择,[]FINAL
 
 custom_proxy_group=🔰 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(?i:1X|0\.)
 custom_proxy_group=📰AppleNews`select`[]🇺🇲 美国节点
-custom_proxy_group=🪕bilibili`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]DIRECT
 custom_proxy_group=📹 YouTube`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`^((?!CN2|流量|时间).)*$
 custom_proxy_group=🎥 NETFLIX`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(NF\*)
 custom_proxy_group=🇭🇰 香港节点`select`(港|HK|HONG|Hong|HGC)
