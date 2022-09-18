@@ -1,7 +1,7 @@
-surge_ruleset=🎥 NETFLIX,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Netflix/Netflix.list
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Hijacking/Hijacking.list
 surge_ruleset=REJECT,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Advertising/Advertising.list
 surge_ruleset=📰AppleNews,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/AppleNews/AppleNews.list
+surge_ruleset=🎥 NETFLIX,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Netflix/Netflix.list
 surge_ruleset=Ⓜ️ 微软服务,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Microsoft/Microsoft.list
 surge_ruleset=📹 YouTube,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/YouTube/YouTube.list
 surge_ruleset=🌍 国外媒体,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/GlobalMedia/GlobalMedia.list
