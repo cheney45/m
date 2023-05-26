@@ -13,7 +13,6 @@ surge_ruleset=🐟 规则外路由选择,[]FINAL
 
 
 custom_proxy_group=🔰 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(?i:1X|0\.)
-custom_proxy_group=📰AppleNews`select`[]🇺🇲 美国节点
 custom_proxy_group=📹 YouTube`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`^((?!CN2|流量|时间).)*$
 custom_proxy_group=🇭🇰 香港节点`select`(港|HK|HONG|Hong|HGC)
 custom_proxy_group=🇨🇳 台湾节点`select`(台|新北|彰化|TW|Tai)
